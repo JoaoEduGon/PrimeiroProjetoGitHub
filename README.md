@@ -9,12 +9,17 @@ Repositorio para armazenar resumos do curso Git GitHub na plataforma DIO [Digita
  
 ##💻 Resumos das aulas
 
-| Aulas | RESUMOS |
-|--------|---------|
-Alteração no Repositório| [Resumos](https://github.com/JoaoEduGon/PrimeiroProjetoGitHub.git)
+| Aulas | [Resumos](https://github.com/JoaoEduGon/PrimeiroProjetoGitHub.git)
+|-|-|
+Alteração no Repositório ||
+Criando e Clonando Repositórios ||
+Salvando Alterações no Repositório Local ||
+Desfazendo Alterações no Repositório Local ||
+Enviando e Baixando Alterações com o Repositório Remoto ||
+Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos ||
+Trabalhando com Branches - Comandos Úteis no Dia a Dia ||
 
-
-##💻 Comando utilizado nas aulas
+##💻 Comandos ultilizados nas aulas
 ```
 Mkdir NOME-DA-PASTA
 Git Init 
@@ -43,30 +48,9 @@ git fetch origin main
 git deff main origin/main
 git merge origin/main
 git clone URL --branch teste --single-branch
+ 
 ```
 
 ## 🔎 Referência 
 - [Digital One Innovation](https://web.dio.me/track/857f1c89-1fa4-43e5-90fb-acb73e091b94)
-
-
-
-
-
-
-
-# Repositório Git GitHub #
-
-# Objetivo da aula #
-
-1. Criar um repositório local e adiciona-lo ao nosso GitHub - remoto; []
-
-2. Clonar um repositório remoto para o nosso computador local; []
-
-3. Fazer alteração >> Adicionar | comitar | Enviar arquivos; []
-
-4. Criar uma nova Branch; []
-
-5. Realizar um pull Request e Merge ; []
-
-6. Criar nosso primeiro Fork; []
 
